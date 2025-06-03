@@ -9,7 +9,7 @@ Shaheen is a virtual reality experience designed to take users on a cultural jou
 ## 🔗 Live Demo & Links
 
 - 🌐 [Live Website](https://shaheensaudi.netlify.app/)
-- 🎥 [Video Demo]([https://your-video-link.com](https://drive.google.com/drive/folders/1FFqvYePz9Let1VCDyoOuB8kGxcLlNpk1))
+- 🎥 [Video Demo]([https://your-video-link.com](https://drive.google.com/drive/folders/1FFqvYePz9Let1VCDyoOuB8kGxcLlNpk1)
 
 ---
 
